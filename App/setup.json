@@ -1,0 +1,16 @@
+{
+	"name":"rastamod69",
+	"version":"1.0.1",
+	"author":"rastamod69",
+	"author_email":"<rastamod69_1@gmail.com>",
+	"description":"Tool Php Sederhana",
+	"classifiers":
+		{
+			"Programming_Language":"PHP",
+			"Operating System":
+				[
+					"Linux",
+					"Windows"
+				]
+		}
+}
