@@ -1,3 +1,4 @@
+<?php
 const
 title = "ltchunt",
 versi = " 1.0",
